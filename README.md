@@ -24,19 +24,19 @@
 
 ## 📁 Projects Structure
 
-┣ 📁 solidity/ → Core Solidity language projects 
+      ┣ 📁 solidity/ → Core Solidity language projects 
    
-    ┣ 📁 SimpleStorage:- The SimpleStorage contract is a basic example used to demonstrate how smart contracts can store and retrieve data on the Ethereum blockchain.
+          ┣ 📁 SimpleStorage:- The SimpleStorage contract is a basic example used to demonstrate how smart contracts can store and retrieve data on the Ethereum blockchain.
 
-    ┣ 📁 StorageFactory:- The StorageFactory contract creates and manages multiple SimpleStorage contracts, allowing you to store and retrieve values from each instance by index.
+          ┣ 📁 StorageFactory:- The StorageFactory contract creates and manages multiple SimpleStorage contracts, allowing you to store and retrieve values from each instance by index.
 
-┣ 📁 foundry/ → Foundry-based development and testing 
+      ┣ 📁 foundry/ → Foundry-based development and testing 
 
-┣ 📁 advanced-foundry/ → Fuzzing, invariants, and advanced Foundry features 
+      ┣ 📁 advanced-foundry/ → Fuzzing, invariants, and advanced Foundry features 
 
-┣ 📁 security-and-auditing/ → Vulnerability testing and secure smart contract patterns 
+      ┣ 📁 security-and-auditing/ → Vulnerability testing and secure smart contract patterns 
 
-┣ 📁 assembly/ → Inline Assembly and low-level EVM projects 
+      ┣ 📁 assembly/ → Inline Assembly and low-level EVM projects 
 
-┗ 📁 formal-verification/ → SMTChecker, assertions, and formal proofs
+      ┗ 📁 formal-verification/ → SMTChecker, assertions, and formal proofs
 
