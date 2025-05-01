@@ -26,6 +26,8 @@
 
       ┣ 📁 solidity/ → Core Solidity language projects 
    
+          ┣ 📁 AddFiveStorage:- The AddFiveStorage contract uses inheritance to inherit code from SimpleStorage contract and ovverides the stored data by adding 5 to the added data.
+          
           ┣ 📁 SimpleStorage:- The SimpleStorage contract is a basic example used to demonstrate how smart contracts can store and retrieve data on the Ethereum blockchain.
 
           ┣ 📁 StorageFactory:- The StorageFactory contract creates and manages multiple SimpleStorage contracts, allowing you to store and retrieve values from each instance by index.
