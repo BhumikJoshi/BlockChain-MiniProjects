@@ -26,7 +26,9 @@
 
 ┣ 📁 solidity/ → Core Solidity language projects 
    
-    ┣ 📁 SimpleStorage:- Using Solidity in Remix - Ethereum IDE
+    ┣ 📁 SimpleStorage:- The SimpleStorage contract is a basic example used to demonstrate how smart contracts can store and retrieve data on the Ethereum blockchain.
+
+    ┣ 📁 StorageFactory:- The StorageFactory contract creates and manages multiple SimpleStorage contracts, allowing you to store and retrieve values from each instance by index.
 
 ┣ 📁 foundry/ → Foundry-based development and testing 
 
